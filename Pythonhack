@@ -1,0 +1,63 @@
+x = 2289892893942742874827187274826472674676454368476844514643844164216125448484162468446844864428648
+y = 5264723726745265365465346563546356453668372878647639462735454834845135538548583784534551551354887
+z = 9898278732563255243332112231456786377387837483628364736247632647267462746376473287463746762736427
+a = "yes"
+b = "no"
+def hack():
+  print("if you want to hack type _YES_")
+  print()
+  print("if you do not want to hack type _NO_")
+  print()
+  c = input("do you want to hack - ")
+  print()
+  print()
+  if c == a:
+    print("FINDING HOST......")
+    print()
+    print()
+    print("CONFIGURING SYSTEM.......")
+    print()
+    print()
+    print("INITIALIZING ATTACK............... ") 
+    print()
+    print()
+  else :
+      print("BREAKING PROCESS")
+      print()
+      print()
+      print("RESETTING PROCESS")
+      print()
+      print()
+      print("PROCESS RESETED")
+      print()
+      print()
+  print()
+  print("type __YES__ if you want to attack OS.1001")
+  print()
+  print("type __NO__ if you do not want to attack OS.1001")
+  print()
+  print("COMMENCING ATTACK.......  ")
+  print()
+  d = input("ARE YOU SURE YOU WANT TO ATTACK OS.1OO1")
+  print()
+  
+  
+  if d == a:
+    while True :
+      print(x)
+      print(y)
+      print(z)
+  else :
+      print("BREAKING PROCESS")
+      print()
+      print()
+      print("RESETTING PROCESS")
+      print()
+      print()
+      print("PROCESS RESETED")
+      print()
+      print()
+while True:
+  hack()
+
+
